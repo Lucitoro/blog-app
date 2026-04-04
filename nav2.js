@@ -1,4 +1,5 @@
-document.addEventListener("DOMContentLoaded", function () {
+
+      document.addEventListener("DOMContentLoaded", function () {
   const nav = `
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
